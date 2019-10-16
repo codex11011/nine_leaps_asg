@@ -56,12 +56,4 @@ Working of Dynamic Page-
 4, choose MetaCritic Slider 
 
 5, Submit the form and it will show the output 
-### CONTACT
-
-Manish Udhani
-Ph-7340301213
-
-[Email01 -16uec061@lnmiit.ac.in](mailto:Email-16ueco61@lnmiit.ac.in)
-
-[Email02 ](mailto:Email-1mudhani97@gmail.com)<-mudhani97@gmail.com>
 
